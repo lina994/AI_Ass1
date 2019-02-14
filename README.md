@@ -7,7 +7,7 @@ However, unlike standard shortest path problems in graphs, which have easy known
 This is a problem encountered in many real-world settings, such as when you are trying to evacuate people who are stuck at home with no transportation before the hurricane arrives.
 
 
-##Hurricane Evacuation problem environment
+## Hurricane Evacuation problem environment
 
 The environment consists of a weighted unidrected graph. Each vertex may contain a number of people to be evacuated, or a hurricane shelter.
 
@@ -45,7 +45,7 @@ The simulator run each agent in turn, performing the actions retured by the agen
     * With the same heuristic.
 * Simplified version of real-time A\* agent.
 
-####Performance of AI agents
+#### Performance of AI agents
 
     P = f * S + N
 
@@ -76,7 +76,7 @@ For example:
     #D 10            ; Deadline is at time 10
 <br>
 
-#### Graph visualization
+### Graph visualization
 
 ![graph](https://github.com/lina994/AI_Ass1/blob/master/resources/input_example.png?raw=true "graph")
 <br>
