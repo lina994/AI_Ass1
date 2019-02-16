@@ -6,6 +6,15 @@ However, unlike standard shortest path problems in graphs, which have easy known
 
 This is a problem encountered in many real-world settings, such as when you are trying to evacuate people who are stuck at home with no transportation before the hurricane arrives.
 
+Using the following principles:
+
+* Artificial Intelligence:
+    * Heuristic static evaluation function
+    * α–β pruning algorithm
+    * Greedy search , A\*  and Realtime A\*  search agents
+* Dijkstra algorithm
+* Minimum Heap
+* OOP, Files I/O
 
 ## Hurricane Evacuation problem environment
 
@@ -124,9 +133,19 @@ For example:
 * Detailed output will be displayed in the terminal
 * A summary will be saved in the results.txt  file
 
+
 ## Authors
 
 * Alina
     * [github](https://github.com/lina994 "github")
 * Elina
+    * [github](https://github.com/ElinaS21 "github")
+
+
+## Official assignment description
+[assignment 1](https://www.cs.bgu.ac.il/~shimony/AI2019/AIass1.html "assignment description")
+
+
+
+
 
