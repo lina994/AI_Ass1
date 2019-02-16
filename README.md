@@ -10,7 +10,6 @@ Using the following principles:
 
 * Artificial Intelligence:
     * Heuristic static evaluation function
-    * α–β pruning algorithm
     * Greedy search , A\*  and Realtime A\*  search agents
 * Dijkstra algorithm
 * Minimum Heap
